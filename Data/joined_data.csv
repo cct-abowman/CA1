@@ -1,0 +1,833 @@
+CensusYear,Industry,County,WorkingPopulation,Population,MeanIncome,pctIndustryEmployement
+2011,"Agriculture, forestry and fishing",Carlow,1397.0,54612.0,34815.0,2.5580458507287775
+2016,"Agriculture, forestry and fishing",Carlow,1615.0,56932.0,35234.0,2.836717487528982
+2011,"Agriculture, forestry and fishing",Dublin,2949.0,1273069.0,44243.0,0.2316449461890911
+2016,"Agriculture, forestry and fishing",Dublin,2010.0,1347359.0,46976.0,0.14918073059963974
+2011,"Agriculture, forestry and fishing",Kildare,3028.0,210312.0,42084.0,1.43976568146373
+2016,"Agriculture, forestry and fishing",Kildare,3190.0,222504.0,44092.0,1.4336820911084744
+2011,"Agriculture, forestry and fishing",Kilkenny,3386.0,95419.0,36856.0,3.548559511208459
+2016,"Agriculture, forestry and fishing",Kilkenny,3488.0,99232.0,37338.0,3.5149951628506932
+2011,"Agriculture, forestry and fishing",Laois,2469.0,80559.0,37253.0,3.0648344691468368
+2016,"Agriculture, forestry and fishing",Laois,2431.0,84697.0,37703.0,2.8702315312230655
+2011,"Agriculture, forestry and fishing",Longford,1323.0,39000.0,33473.0,3.3923076923076922
+2016,"Agriculture, forestry and fishing",Longford,1159.0,40873.0,34144.0,2.835612751694273
+2011,"Agriculture, forestry and fishing",Louth,1357.0,122897.0,36209.0,1.1041766682669227
+2016,"Agriculture, forestry and fishing",Louth,1347.0,128884.0,37147.0,1.0451258496011917
+2011,"Agriculture, forestry and fishing",Meath,3748.0,184135.0,41083.0,2.035463111304206
+2016,"Agriculture, forestry and fishing",Meath,3734.0,195044.0,42755.0,1.9144398187075737
+2011,"Agriculture, forestry and fishing",Offaly,2286.0,76687.0,35380.0,2.980948531041767
+2016,"Agriculture, forestry and fishing",Offaly,2217.0,77961.0,35901.0,2.8437295570862355
+2011,"Agriculture, forestry and fishing",Westmeath,1925.0,86164.0,37076.0,2.234111693978924
+2016,"Agriculture, forestry and fishing",Westmeath,1944.0,88770.0,37856.0,2.189929030077729
+2011,"Agriculture, forestry and fishing",Wexford,4371.0,145320.0,33672.0,3.00784475639967
+2016,"Agriculture, forestry and fishing",Wexford,4310.0,149722.0,34430.0,2.878668465556164
+2011,"Agriculture, forestry and fishing",Wicklow,2355.0,136640.0,41725.0,1.723507025761124
+2016,"Agriculture, forestry and fishing",Wicklow,2062.0,142425.0,43075.0,1.44777953308759
+2011,"Agriculture, forestry and fishing",Clare,3840.0,117196.0,38592.0,3.2765623400116044
+2016,"Agriculture, forestry and fishing",Clare,3423.0,118817.0,39716.0,2.880900881187036
+2011,"Agriculture, forestry and fishing",Cork,13035.0,519032.0,39169.0,2.5114058478089984
+2016,"Agriculture, forestry and fishing",Cork,12066.0,542868.0,41122.0,2.222639757731161
+2011,"Agriculture, forestry and fishing",Kerry,5621.0,145502.0,34455.0,3.8631771384585782
+2016,"Agriculture, forestry and fishing",Kerry,4913.0,147707.0,34700.0,3.3261795310987297
+2011,"Agriculture, forestry and fishing",Limerick,4388.0,191809.0,38156.0,2.2876924440459
+2016,"Agriculture, forestry and fishing",Limerick,4263.0,194899.0,39464.0,2.187286748521029
+2011,"Agriculture, forestry and fishing",Tipperary,6817.0,158754.0,35722.0,4.294065031432279
+2016,"Agriculture, forestry and fishing",Tipperary,6740.0,159553.0,36390.0,4.224301642714333
+2011,"Agriculture, forestry and fishing",Waterford,2604.0,113795.0,36959.0,2.2883254976053427
+2016,"Agriculture, forestry and fishing",Waterford,2589.0,116176.0,37279.0,2.2285153560115685
+2011,"Agriculture, forestry and fishing",Galway,6224.0,250653.0,37499.0,2.4831141059552446
+2016,"Agriculture, forestry and fishing",Galway,5668.0,258058.0,39042.0,2.196405459237846
+2011,"Agriculture, forestry and fishing",Leitrim,1215.0,31798.0,34461.0,3.8209950311340335
+2016,"Agriculture, forestry and fishing",Leitrim,1091.0,32044.0,34848.0,3.404693546373736
+2011,"Agriculture, forestry and fishing",Mayo,5411.0,130638.0,34117.0,4.1419801282934525
+2016,"Agriculture, forestry and fishing",Mayo,4395.0,130507.0,35036.0,3.367635452504463
+2011,"Agriculture, forestry and fishing",Roscommon,2451.0,64065.0,35515.0,3.825801919925076
+2016,"Agriculture, forestry and fishing",Roscommon,2311.0,64544.0,36199.0,3.5805032226078337
+2011,"Agriculture, forestry and fishing",Sligo,1770.0,65393.0,36340.0,2.706711727554937
+2016,"Agriculture, forestry and fishing",Sligo,1868.0,65535.0,37071.0,2.8503852903028917
+2011,"Agriculture, forestry and fishing",Cavan,3381.0,73183.0,34489.0,4.61992539250919
+2016,"Agriculture, forestry and fishing",Cavan,3455.0,76176.0,35327.0,4.535549254358328
+2011,"Agriculture, forestry and fishing",Donegal,4036.0,161137.0,31776.0,2.504700968740885
+2016,"Agriculture, forestry and fishing",Donegal,3977.0,159192.0,31683.0,2.4982411176441026
+2011,"Agriculture, forestry and fishing",Monaghan,2860.0,60483.0,32502.0,4.728601425193856
+2016,"Agriculture, forestry and fishing",Monaghan,2850.0,61386.0,32297.0,4.642752419118366
+2011,"Mining, quarrying and turf production",Carlow,149.0,54612.0,34815.0,0.2728338094191753
+2016,"Mining, quarrying and turf production",Carlow,145.0,56932.0,35234.0,0.2546898053818591
+2011,"Mining, quarrying and turf production",Dublin,260.0,1273069.0,44243.0,0.02042308782948921
+2016,"Mining, quarrying and turf production",Dublin,277.0,1347359.0,46976.0,0.020558737500547368
+2011,"Mining, quarrying and turf production",Kildare,325.0,210312.0,42084.0,0.15453231389554567
+2016,"Mining, quarrying and turf production",Kildare,355.0,222504.0,44092.0,0.1595476935246108
+2011,"Mining, quarrying and turf production",Kilkenny,264.0,95419.0,36856.0,0.276674456869177
+2016,"Mining, quarrying and turf production",Kilkenny,152.0,99232.0,37338.0,0.15317639471138342
+2011,"Mining, quarrying and turf production",Laois,203.0,80559.0,37253.0,0.25198922528829804
+2016,"Mining, quarrying and turf production",Laois,187.0,84697.0,37703.0,0.22078704086331274
+2011,"Mining, quarrying and turf production",Longford,137.0,39000.0,33473.0,0.3512820512820513
+2016,"Mining, quarrying and turf production",Longford,134.0,40873.0,34144.0,0.3278447875125388
+2011,"Mining, quarrying and turf production",Louth,165.0,122897.0,36209.0,0.1342587695387194
+2016,"Mining, quarrying and turf production",Louth,85.0,128884.0,37147.0,0.06595077744328233
+2011,"Mining, quarrying and turf production",Meath,748.0,184135.0,41083.0,0.4062236945719173
+2016,"Mining, quarrying and turf production",Meath,704.0,195044.0,42755.0,0.3609441972067841
+2011,"Mining, quarrying and turf production",Offaly,585.0,76687.0,35380.0,0.7628411595185625
+2016,"Mining, quarrying and turf production",Offaly,455.0,77961.0,35901.0,0.5836251459062864
+2011,"Mining, quarrying and turf production",Westmeath,179.0,86164.0,37076.0,0.20774337310245578
+2016,"Mining, quarrying and turf production",Westmeath,130.0,88770.0,37856.0,0.14644587135293455
+2011,"Mining, quarrying and turf production",Wexford,88.0,145320.0,33672.0,0.060556014313239745
+2016,"Mining, quarrying and turf production",Wexford,104.0,149722.0,34430.0,0.06946206970251532
+2011,"Mining, quarrying and turf production",Wicklow,98.0,136640.0,41725.0,0.07172131147540983
+2016,"Mining, quarrying and turf production",Wicklow,108.0,142425.0,43075.0,0.07582938388625592
+2011,"Mining, quarrying and turf production",Clare,97.0,117196.0,38592.0,0.08276732994300147
+2016,"Mining, quarrying and turf production",Clare,117.0,118817.0,39716.0,0.09847075755152883
+2011,"Mining, quarrying and turf production",Cork,252.0,519032.0,39169.0,0.04855191972749272
+2016,"Mining, quarrying and turf production",Cork,224.0,542868.0,41122.0,0.041262332648083884
+2011,"Mining, quarrying and turf production",Kerry,121.0,145502.0,34455.0,0.0831603689296367
+2016,"Mining, quarrying and turf production",Kerry,121.0,147707.0,34700.0,0.08191893410603424
+2011,"Mining, quarrying and turf production",Limerick,152.0,191809.0,38156.0,0.0792454994291196
+2016,"Mining, quarrying and turf production",Limerick,123.0,194899.0,39464.0,0.06310961061883334
+2011,"Mining, quarrying and turf production",Tipperary,529.0,158754.0,35722.0,0.3332199503634554
+2016,"Mining, quarrying and turf production",Tipperary,277.0,159553.0,36390.0,0.17361002300176118
+2011,"Mining, quarrying and turf production",Waterford,32.0,113795.0,36959.0,0.02812074344215475
+2016,"Mining, quarrying and turf production",Waterford,42.0,116176.0,37279.0,0.03615204517284121
+2011,"Mining, quarrying and turf production",Galway,324.0,250653.0,37499.0,0.12926236669818433
+2016,"Mining, quarrying and turf production",Galway,341.0,258058.0,39042.0,0.13214083655612305
+2011,"Mining, quarrying and turf production",Leitrim,78.0,31798.0,34461.0,0.24529844644317253
+2016,"Mining, quarrying and turf production",Leitrim,58.0,32044.0,34848.0,0.18100112345524902
+2011,"Mining, quarrying and turf production",Mayo,249.0,130638.0,34117.0,0.19060304046295873
+2016,"Mining, quarrying and turf production",Mayo,255.0,130507.0,35036.0,0.1953918180633989
+2011,"Mining, quarrying and turf production",Roscommon,209.0,64065.0,35515.0,0.32623117146647934
+2016,"Mining, quarrying and turf production",Roscommon,222.0,64544.0,36199.0,0.34395141298958853
+2011,"Mining, quarrying and turf production",Sligo,41.0,65393.0,36340.0,0.06269784227669628
+2016,"Mining, quarrying and turf production",Sligo,32.0,65535.0,37071.0,0.04882887006942855
+2011,"Mining, quarrying and turf production",Cavan,122.0,73183.0,34489.0,0.16670538239755134
+2016,"Mining, quarrying and turf production",Cavan,133.0,76176.0,35327.0,0.1745956731779038
+2011,"Mining, quarrying and turf production",Donegal,195.0,161137.0,31776.0,0.12101503689407152
+2016,"Mining, quarrying and turf production",Donegal,187.0,159192.0,31683.0,0.11746821448313986
+2011,"Mining, quarrying and turf production",Monaghan,72.0,60483.0,32502.0,0.11904171420068449
+2016,"Mining, quarrying and turf production",Monaghan,87.0,61386.0,32297.0,0.14172612647835012
+2011,Manufacturing industries,Carlow,2237.0,54612.0,34815.0,4.096169340071779
+2016,Manufacturing industries,Carlow,2643.0,56932.0,35234.0,4.642380383615541
+2011,Manufacturing industries,Dublin,36790.0,1273069.0,44243.0,2.8898669278727236
+2016,Manufacturing industries,Dublin,33317.0,1347359.0,46976.0,2.4727633837752223
+2011,Manufacturing industries,Kildare,9717.0,210312.0,42084.0,4.620278443455438
+2016,Manufacturing industries,Kildare,9784.0,222504.0,44092.0,4.3972243195627945
+2011,Manufacturing industries,Kilkenny,4020.0,95419.0,36856.0,4.212997411417013
+2016,Manufacturing industries,Kilkenny,4348.0,99232.0,37338.0,4.381651080296678
+2011,Manufacturing industries,Laois,2742.0,80559.0,37253.0,3.4037165307414443
+2016,Manufacturing industries,Laois,2756.0,84697.0,37703.0,3.253952324167326
+2011,Manufacturing industries,Longford,1867.0,39000.0,33473.0,4.787179487179487
+2016,Manufacturing industries,Longford,2237.0,40873.0,34144.0,5.473050669145891
+2011,Manufacturing industries,Louth,4942.0,122897.0,36209.0,4.021253570062735
+2016,Manufacturing industries,Louth,5226.0,128884.0,37147.0,4.054808975512865
+2011,Manufacturing industries,Meath,7497.0,184135.0,41083.0,4.071469302413989
+2016,Manufacturing industries,Meath,7694.0,195044.0,42755.0,3.944750927995734
+2011,Manufacturing industries,Offaly,3661.0,76687.0,35380.0,4.773951256405909
+2016,Manufacturing industries,Offaly,4134.0,77961.0,35901.0,5.302651325662831
+2011,Manufacturing industries,Westmeath,3970.0,86164.0,37076.0,4.607492688361728
+2016,Manufacturing industries,Westmeath,4085.0,88770.0,37856.0,4.601779880590289
+2011,Manufacturing industries,Wexford,5557.0,145320.0,33672.0,3.823974676575833
+2016,Manufacturing industries,Wexford,6323.0,149722.0,34430.0,4.223160257009658
+2011,Manufacturing industries,Wicklow,5259.0,136640.0,41725.0,3.848799765807963
+2016,Manufacturing industries,Wicklow,4920.0,142425.0,43075.0,3.454449710373881
+2011,Manufacturing industries,Clare,6473.0,117196.0,38592.0,5.523226048670603
+2016,Manufacturing industries,Clare,6888.0,118817.0,39716.0,5.797150239443851
+2011,Manufacturing industries,Cork,29827.0,519032.0,39169.0,5.746659165523512
+2016,Manufacturing industries,Cork,33010.0,542868.0,41122.0,6.080667860327004
+2011,Manufacturing industries,Kerry,5237.0,145502.0,34455.0,3.59926324036783
+2016,Manufacturing industries,Kerry,5782.0,147707.0,34700.0,3.9145064214966117
+2011,Manufacturing industries,Limerick,10158.0,191809.0,38156.0,5.295893310532874
+2016,Manufacturing industries,Limerick,10575.0,194899.0,39464.0,5.425887254424086
+2011,Manufacturing industries,Tipperary,8425.0,158754.0,35722.0,5.30695289567507
+2016,Manufacturing industries,Tipperary,8691.0,159553.0,36390.0,5.447092815553453
+2011,Manufacturing industries,Waterford,6819.0,113795.0,36959.0,5.9923546728766635
+2016,Manufacturing industries,Waterford,7056.0,116176.0,37279.0,6.073543589037323
+2011,Manufacturing industries,Galway,13678.0,250653.0,37499.0,5.456946455857301
+2016,Manufacturing industries,Galway,15855.0,258058.0,39042.0,6.143967635182788
+2011,Manufacturing industries,Leitrim,1032.0,31798.0,34461.0,3.245487137555821
+2016,Manufacturing industries,Leitrim,1268.0,32044.0,34848.0,3.957059043814755
+2011,Manufacturing industries,Mayo,5838.0,130638.0,34117.0,4.468837551095393
+2016,Manufacturing industries,Mayo,6501.0,130507.0,35036.0,4.981341996981005
+2011,Manufacturing industries,Roscommon,2506.0,64065.0,35515.0,3.9116522282057287
+2016,Manufacturing industries,Roscommon,2803.0,64544.0,36199.0,4.342773921665841
+2011,Manufacturing industries,Sligo,3047.0,65393.0,36340.0,4.659520132124233
+2016,Manufacturing industries,Sligo,3003.0,65535.0,37071.0,4.582284275577935
+2011,Manufacturing industries,Cavan,3928.0,73183.0,34489.0,5.3673667381769
+2016,Manufacturing industries,Cavan,4548.0,76176.0,35327.0,5.970384373030876
+2011,Manufacturing industries,Donegal,4537.0,161137.0,31776.0,2.8156165250687306
+2016,Manufacturing industries,Donegal,4552.0,159192.0,31683.0,2.859440172873009
+2011,Manufacturing industries,Monaghan,3316.0,60483.0,32502.0,5.482532281798191
+2016,Manufacturing industries,Monaghan,3316.0,61386.0,32297.0,5.401883165542632
+2011,"Electricity, gas and water supply",Carlow,89.0,54612.0,34815.0,0.16296784589467517
+2016,"Electricity, gas and water supply",Carlow,166.0,56932.0,35234.0,0.29157591512681796
+2011,"Electricity, gas and water supply",Dublin,4257.0,1273069.0,44243.0,0.3343887880389829
+2016,"Electricity, gas and water supply",Dublin,6795.0,1347359.0,46976.0,0.5043199325495283
+2011,"Electricity, gas and water supply",Kildare,636.0,210312.0,42084.0,0.30240785119251395
+2016,"Electricity, gas and water supply",Kildare,1171.0,222504.0,44092.0,0.5262826735699133
+2011,"Electricity, gas and water supply",Kilkenny,209.0,95419.0,36856.0,0.2190339450214318
+2016,"Electricity, gas and water supply",Kilkenny,469.0,99232.0,37338.0,0.4726297968397291
+2011,"Electricity, gas and water supply",Laois,262.0,80559.0,37253.0,0.3252274730321876
+2016,"Electricity, gas and water supply",Laois,480.0,84697.0,37703.0,0.5667260941945995
+2011,"Electricity, gas and water supply",Longford,93.0,39000.0,33473.0,0.23846153846153847
+2016,"Electricity, gas and water supply",Longford,195.0,40873.0,34144.0,0.4770875639175005
+2011,"Electricity, gas and water supply",Louth,308.0,122897.0,36209.0,0.2506163698056096
+2016,"Electricity, gas and water supply",Louth,616.0,128884.0,37147.0,0.4779491635889637
+2011,"Electricity, gas and water supply",Meath,481.0,184135.0,41083.0,0.2612213864827436
+2016,"Electricity, gas and water supply",Meath,1170.0,195044.0,42755.0,0.5998646459260475
+2011,"Electricity, gas and water supply",Offaly,270.0,76687.0,35380.0,0.35208053516241344
+2016,"Electricity, gas and water supply",Offaly,528.0,77961.0,35901.0,0.6772617077769655
+2011,"Electricity, gas and water supply",Westmeath,188.0,86164.0,37076.0,0.21818857063274685
+2016,"Electricity, gas and water supply",Westmeath,356.0,88770.0,37856.0,0.40103638616649767
+2011,"Electricity, gas and water supply",Wexford,259.0,145320.0,33672.0,0.17822736030828518
+2016,"Electricity, gas and water supply",Wexford,527.0,149722.0,34430.0,0.351985680127169
+2011,"Electricity, gas and water supply",Wicklow,387.0,136640.0,41725.0,0.2832259953161592
+2016,"Electricity, gas and water supply",Wicklow,715.0,142425.0,43075.0,0.5020186062840091
+2011,"Electricity, gas and water supply",Clare,483.0,117196.0,38592.0,0.4121301068295846
+2016,"Electricity, gas and water supply",Clare,687.0,118817.0,39716.0,0.5782000892128231
+2011,"Electricity, gas and water supply",Cork,1913.0,519032.0,39169.0,0.3685707239630697
+2016,"Electricity, gas and water supply",Cork,3085.0,542868.0,41122.0,0.568278108122048
+2011,"Electricity, gas and water supply",Kerry,425.0,145502.0,34455.0,0.29209220491814547
+2016,"Electricity, gas and water supply",Kerry,740.0,147707.0,34700.0,0.5009918284170689
+2011,"Electricity, gas and water supply",Limerick,410.0,191809.0,38156.0,0.21375430767065154
+2016,"Electricity, gas and water supply",Limerick,808.0,194899.0,39464.0,0.41457370227656376
+2011,"Electricity, gas and water supply",Tipperary,294.0,158754.0,35722.0,0.18519218413394306
+2016,"Electricity, gas and water supply",Tipperary,684.0,159553.0,36390.0,0.42869767412709253
+2011,"Electricity, gas and water supply",Waterford,193.0,113795.0,36959.0,0.16960323388549586
+2016,"Electricity, gas and water supply",Waterford,320.0,116176.0,37279.0,0.27544415369783776
+2011,"Electricity, gas and water supply",Galway,508.0,250653.0,37499.0,0.20267062432925198
+2016,"Electricity, gas and water supply",Galway,1151.0,258058.0,39042.0,0.446023762099993
+2011,"Electricity, gas and water supply",Leitrim,104.0,31798.0,34461.0,0.3270645952575634
+2016,"Electricity, gas and water supply",Leitrim,139.0,32044.0,34848.0,0.43377855448757957
+2011,"Electricity, gas and water supply",Mayo,373.0,130638.0,34117.0,0.285521823665396
+2016,"Electricity, gas and water supply",Mayo,556.0,130507.0,35036.0,0.4260307876205874
+2011,"Electricity, gas and water supply",Roscommon,186.0,64065.0,35515.0,0.2903301334582065
+2016,"Electricity, gas and water supply",Roscommon,292.0,64544.0,36199.0,0.45240456122954886
+2011,"Electricity, gas and water supply",Sligo,186.0,65393.0,36340.0,0.28443411374306116
+2016,"Electricity, gas and water supply",Sligo,227.0,65535.0,37071.0,0.34637979705500876
+2011,"Electricity, gas and water supply",Cavan,158.0,73183.0,34489.0,0.21589713458043536
+2016,"Electricity, gas and water supply",Cavan,400.0,76176.0,35327.0,0.5250997689561017
+2011,"Electricity, gas and water supply",Donegal,314.0,161137.0,31776.0,0.19486523889609464
+2016,"Electricity, gas and water supply",Donegal,620.0,159192.0,31683.0,0.38946680737725514
+2011,"Electricity, gas and water supply",Monaghan,130.0,60483.0,32502.0,0.21493642841790253
+2016,"Electricity, gas and water supply",Monaghan,281.0,61386.0,32297.0,0.45775909816570554
+2011,Construction,Carlow,1122.0,54612.0,34815.0,2.0544935179081523
+2016,Construction,Carlow,1254.0,56932.0,35234.0,2.202627696198974
+2011,Construction,Dublin,18610.0,1273069.0,44243.0,1.461821786564593
+2016,Construction,Dublin,22844.0,1347359.0,46976.0,1.69546498000904
+2011,Construction,Kildare,4807.0,210312.0,42084.0,2.285651793525809
+2016,Construction,Kildare,5838.0,222504.0,44092.0,2.6237730557652896
+2011,Construction,Kilkenny,2190.0,95419.0,36856.0,2.2951403808465822
+2016,Construction,Kilkenny,2496.0,99232.0,37338.0,2.5153176394711383
+2011,Construction,Laois,1783.0,80559.0,37253.0,2.213284673345002
+2016,Construction,Laois,1976.0,84697.0,37703.0,2.3330224211011013
+2011,Construction,Longford,768.0,39000.0,33473.0,1.9692307692307693
+2016,Construction,Longford,841.0,40873.0,34144.0,2.057593032074964
+2011,Construction,Louth,2183.0,122897.0,36209.0,1.7762842054728758
+2016,Construction,Louth,2638.0,128884.0,37147.0,2.0468017752397505
+2011,Construction,Meath,4796.0,184135.0,41083.0,2.6046107475493527
+2016,Construction,Meath,6147.0,195044.0,42755.0,3.151596562826849
+2011,Construction,Offaly,1620.0,76687.0,35380.0,2.1124832109744807
+2016,Construction,Offaly,1852.0,77961.0,35901.0,2.375546747732841
+2011,Construction,Westmeath,1765.0,86164.0,37076.0,2.048419293440416
+2016,Construction,Westmeath,2008.0,88770.0,37856.0,2.2620254590514812
+2011,Construction,Wexford,3370.0,145320.0,33672.0,2.3190200935865675
+2016,Construction,Wexford,4002.0,149722.0,34430.0,2.6729538745140995
+2011,Construction,Wicklow,2790.0,136640.0,41725.0,2.0418618266978923
+2016,Construction,Wicklow,3483.0,142425.0,43075.0,2.4454976303317535
+2011,Construction,Clare,2475.0,117196.0,38592.0,2.1118468207106047
+2016,Construction,Clare,2525.0,118817.0,39716.0,2.1251167762188916
+2011,Construction,Cork,11206.0,519032.0,39169.0,2.159019097088426
+2016,Construction,Cork,11850.0,542868.0,41122.0,2.1828510798205087
+2011,Construction,Kerry,3338.0,145502.0,34455.0,2.2941265412159284
+2016,Construction,Kerry,3439.0,147707.0,34700.0,2.3282579701706756
+2011,Construction,Limerick,3674.0,191809.0,38156.0,1.9154471375170092
+2016,Construction,Limerick,3702.0,194899.0,39464.0,1.8994453537473255
+2011,Construction,Tipperary,3391.0,158754.0,35722.0,2.1360091714224523
+2016,Construction,Tipperary,3352.0,159553.0,36390.0,2.10086930361698
+2011,Construction,Waterford,2005.0,113795.0,36959.0,1.7619403312975086
+2016,Construction,Waterford,2052.0,116176.0,37279.0,1.7662856355873846
+2011,Construction,Galway,5356.0,250653.0,37499.0,2.136818629739121
+2016,Construction,Galway,5628.0,258058.0,39042.0,2.1809050678529633
+2011,Construction,Leitrim,700.0,31798.0,34461.0,2.2013963142335995
+2016,Construction,Leitrim,689.0,32044.0,34848.0,2.150168518287355
+2011,Construction,Mayo,3127.0,130638.0,34117.0,2.3936373796292045
+2016,Construction,Mayo,3235.0,130507.0,35036.0,2.478794240921943
+2011,Construction,Roscommon,1403.0,64065.0,35515.0,2.1899633185046437
+2016,Construction,Roscommon,1492.0,64544.0,36199.0,2.3116013882002977
+2011,Construction,Sligo,1224.0,65393.0,36340.0,1.8717599743091766
+2016,Construction,Sligo,1165.0,65535.0,37071.0,1.777676050965133
+2011,Construction,Cavan,1765.0,73183.0,34489.0,2.411762294521952
+2016,Construction,Cavan,2132.0,76176.0,35327.0,2.798781768536022
+2011,Construction,Donegal,3298.0,161137.0,31776.0,2.046705598341784
+2016,Construction,Donegal,3432.0,159192.0,31683.0,2.155887230514096
+2011,Construction,Monaghan,1591.0,60483.0,32502.0,2.630491212406792
+2016,Construction,Monaghan,1777.0,61386.0,32297.0,2.8947968592187143
+2011,Wholesale and retail trade,Carlow,3500.0,54612.0,34815.0,6.408847872262506
+2016,Wholesale and retail trade,Carlow,3360.0,56932.0,35234.0,5.901777559193424
+2011,Wholesale and retail trade,Dublin,74627.0,1273069.0,44243.0,5.861976059428044
+2016,Wholesale and retail trade,Dublin,74552.0,1347359.0,46976.0,5.5331949391364885
+2011,Wholesale and retail trade,Kildare,13856.0,210312.0,42084.0,6.588306896420557
+2016,Wholesale and retail trade,Kildare,15037.0,222504.0,44092.0,6.75808075360443
+2011,Wholesale and retail trade,Kilkenny,5485.0,95419.0,36856.0,5.748331045179681
+2016,Wholesale and retail trade,Kilkenny,5423.0,99232.0,37338.0,5.4649709771041595
+2011,Wholesale and retail trade,Laois,4765.0,80559.0,37253.0,5.914919499993793
+2016,Wholesale and retail trade,Laois,4972.0,84697.0,37703.0,5.870337792365727
+2011,Wholesale and retail trade,Longford,2135.0,39000.0,33473.0,5.4743589743589745
+2016,Wholesale and retail trade,Longford,2277.0,40873.0,34144.0,5.570914784821276
+2011,Wholesale and retail trade,Louth,8021.0,122897.0,36209.0,6.526603578606475
+2016,Wholesale and retail trade,Louth,8012.0,128884.0,37147.0,6.216442692653859
+2011,Wholesale and retail trade,Meath,11836.0,184135.0,41083.0,6.427892578814457
+2016,Wholesale and retail trade,Meath,11947.0,195044.0,42755.0,6.125284551178196
+2011,Wholesale and retail trade,Offaly,4218.0,76687.0,35380.0,5.500280360426148
+2016,Wholesale and retail trade,Offaly,4198.0,77961.0,35901.0,5.384743653878221
+2011,Wholesale and retail trade,Westmeath,5105.0,86164.0,37076.0,5.92474815468177
+2016,Wholesale and retail trade,Westmeath,5154.0,88770.0,37856.0,5.806015545792498
+2011,Wholesale and retail trade,Wexford,8643.0,145320.0,33672.0,5.947563996696944
+2016,Wholesale and retail trade,Wexford,8701.0,149722.0,34430.0,5.811437196938326
+2011,Wholesale and retail trade,Wicklow,8057.0,136640.0,41725.0,5.8965163934426235
+2016,Wholesale and retail trade,Wicklow,8140.0,142425.0,43075.0,5.715288748464104
+2011,Wholesale and retail trade,Clare,5621.0,117196.0,38592.0,4.796238779480529
+2016,Wholesale and retail trade,Clare,5523.0,118817.0,39716.0,4.648324734676015
+2011,Wholesale and retail trade,Cork,30542.0,519032.0,39169.0,5.884415604432867
+2016,Wholesale and retail trade,Cork,30849.0,542868.0,41122.0,5.6825968743783015
+2011,Wholesale and retail trade,Kerry,8300.0,145502.0,34455.0,5.704388943107311
+2016,Wholesale and retail trade,Kerry,8250.0,147707.0,34700.0,5.585381870865971
+2011,Wholesale and retail trade,Limerick,10865.0,191809.0,38156.0,5.664489153272266
+2016,Wholesale and retail trade,Limerick,10567.0,194899.0,39464.0,5.421782564302536
+2011,Wholesale and retail trade,Tipperary,9026.0,158754.0,35722.0,5.685526033989695
+2016,Wholesale and retail trade,Tipperary,8731.0,159553.0,36390.0,5.47216285497609
+2011,Wholesale and retail trade,Waterford,6012.0,113795.0,36959.0,5.283184674194824
+2016,Wholesale and retail trade,Waterford,6063.0,116176.0,37279.0,5.21880594959372
+2011,Wholesale and retail trade,Galway,13428.0,250653.0,37499.0,5.357206975380307
+2016,Wholesale and retail trade,Galway,13311.0,258058.0,39042.0,5.158142743104263
+2011,Wholesale and retail trade,Leitrim,1538.0,31798.0,34461.0,4.836782187558966
+2016,Wholesale and retail trade,Leitrim,1534.0,32044.0,34848.0,4.787167644488828
+2011,Wholesale and retail trade,Mayo,7675.0,130638.0,34117.0,5.8750133957960164
+2016,Wholesale and retail trade,Mayo,7400.0,130507.0,35036.0,5.6701939359574585
+2011,Wholesale and retail trade,Roscommon,3660.0,64065.0,35515.0,5.712947787403419
+2016,Wholesale and retail trade,Roscommon,3585.0,64544.0,36199.0,5.554350520575111
+2011,Wholesale and retail trade,Sligo,3528.0,65393.0,36340.0,5.3950728671264505
+2016,Wholesale and retail trade,Sligo,3291.0,65535.0,37071.0,5.021744106202792
+2011,Wholesale and retail trade,Cavan,3758.0,73183.0,34489.0,5.135072352868836
+2016,Wholesale and retail trade,Cavan,3965.0,76176.0,35327.0,5.205051459777358
+2011,Wholesale and retail trade,Donegal,7896.0,161137.0,31776.0,4.900178109310711
+2016,Wholesale and retail trade,Donegal,7866.0,159192.0,31683.0,4.941203075531433
+2011,Wholesale and retail trade,Monaghan,3654.0,60483.0,32502.0,6.041366995684737
+2016,Wholesale and retail trade,Monaghan,3965.0,61386.0,32297.0,6.459127488352393
+2011,Hotels and restaurants,Carlow,1078.0,54612.0,34815.0,1.9739251446568522
+2016,Hotels and restaurants,Carlow,1210.0,56932.0,35234.0,2.125342513876203
+2011,Hotels and restaurants,Dublin,29309.0,1273069.0,44243.0,2.302231850748074
+2016,Hotels and restaurants,Dublin,33989.0,1347359.0,46976.0,2.522638732513012
+2011,Hotels and restaurants,Kildare,3875.0,210312.0,42084.0,1.84250066567766
+2016,Hotels and restaurants,Kildare,4436.0,222504.0,44092.0,1.9936720238737282
+2011,Hotels and restaurants,Kilkenny,2330.0,95419.0,36856.0,2.4418616837317515
+2016,Hotels and restaurants,Kilkenny,2575.0,99232.0,37338.0,2.5949290551435023
+2011,Hotels and restaurants,Laois,1497.0,80559.0,37253.0,1.8582653707220793
+2016,Hotels and restaurants,Laois,1711.0,84697.0,37703.0,2.0201423899311663
+2011,Hotels and restaurants,Longford,558.0,39000.0,33473.0,1.4307692307692308
+2016,Hotels and restaurants,Longford,619.0,40873.0,34144.0,1.5144471900765786
+2011,Hotels and restaurants,Louth,2353.0,122897.0,36209.0,1.9146114225733744
+2016,Hotels and restaurants,Louth,2698.0,128884.0,37147.0,2.0933552651997145
+2011,Hotels and restaurants,Meath,3462.0,184135.0,41083.0,1.8801422869090614
+2016,Hotels and restaurants,Meath,3893.0,195044.0,42755.0,1.995959885974447
+2011,Hotels and restaurants,Offaly,1368.0,76687.0,35380.0,1.7838747114895617
+2016,Hotels and restaurants,Offaly,1421.0,77961.0,35901.0,1.8227062249073254
+2011,Hotels and restaurants,Westmeath,1808.0,86164.0,37076.0,2.09832412608514
+2016,Hotels and restaurants,Westmeath,1980.0,88770.0,37856.0,2.2304832713754648
+2011,Hotels and restaurants,Wexford,3546.0,145320.0,33672.0,2.440132122213047
+2016,Hotels and restaurants,Wexford,3924.0,149722.0,34430.0,2.620857322237213
+2011,Hotels and restaurants,Wicklow,2981.0,136640.0,41725.0,2.181645199063232
+2016,Hotels and restaurants,Wicklow,3451.0,142425.0,43075.0,2.423029664735826
+2011,Hotels and restaurants,Clare,2962.0,117196.0,38592.0,2.5273900133110345
+2016,Hotels and restaurants,Clare,3360.0,118817.0,39716.0,2.827878165582366
+2011,Hotels and restaurants,Cork,11613.0,519032.0,39169.0,2.2374343007752895
+2016,Hotels and restaurants,Cork,12819.0,542868.0,41122.0,2.3613475098919072
+2011,Hotels and restaurants,Kerry,5483.0,145502.0,34455.0,3.7683330813322153
+2016,Hotels and restaurants,Kerry,6450.0,147707.0,34700.0,4.366753099040668
+2011,Hotels and restaurants,Limerick,4067.0,191809.0,38156.0,2.1203384616988776
+2016,Hotels and restaurants,Limerick,4302.0,194899.0,39464.0,2.207297112863586
+2011,Hotels and restaurants,Tipperary,2841.0,158754.0,35722.0,1.7895612079065724
+2016,Hotels and restaurants,Tipperary,2921.0,159553.0,36390.0,1.8307396288380664
+2011,Hotels and restaurants,Waterford,2496.0,113795.0,36959.0,2.1934179884880707
+2016,Hotels and restaurants,Waterford,2761.0,116176.0,37279.0,2.3765665886241565
+2011,Hotels and restaurants,Galway,6635.0,250653.0,37499.0,2.647085811859423
+2016,Hotels and restaurants,Galway,7447.0,258058.0,39042.0,2.8857853660804933
+2011,Hotels and restaurants,Leitrim,734.0,31798.0,34461.0,2.3083212780678033
+2016,Hotels and restaurants,Leitrim,825.0,32044.0,34848.0,2.574584945699663
+2011,Hotels and restaurants,Mayo,3481.0,130638.0,34117.0,2.664615196191001
+2016,Hotels and restaurants,Mayo,3889.0,130507.0,35036.0,2.9799167860727778
+2011,Hotels and restaurants,Roscommon,1168.0,64065.0,35515.0,1.823148364941856
+2016,Hotels and restaurants,Roscommon,1184.0,64544.0,36199.0,1.8344075359444718
+2011,Hotels and restaurants,Sligo,1606.0,65393.0,36340.0,2.455920358448152
+2016,Hotels and restaurants,Sligo,1731.0,65535.0,37071.0,2.6413366903181505
+2011,Hotels and restaurants,Cavan,1418.0,73183.0,34489.0,1.9376084609813753
+2016,Hotels and restaurants,Cavan,1591.0,76176.0,35327.0,2.0885843310228944
+2011,Hotels and restaurants,Donegal,3838.0,161137.0,31776.0,2.381824162048443
+2016,Hotels and restaurants,Donegal,4602.0,159192.0,31683.0,2.8908487863711745
+2011,Hotels and restaurants,Monaghan,1053.0,60483.0,32502.0,1.7409850701850107
+2016,Hotels and restaurants,Monaghan,1129.0,61386.0,32297.0,1.839181572345486
+2011,"Transport, storage and communications",Carlow,791.0,54612.0,34815.0,1.4483996191313264
+2016,"Transport, storage and communications",Carlow,1186.0,56932.0,35234.0,2.0831869598819646
+2011,"Transport, storage and communications",Dublin,38001.0,1273069.0,44243.0,2.9849913869554596
+2016,"Transport, storage and communications",Dublin,76734.0,1347359.0,46976.0,5.695141383996396
+2011,"Transport, storage and communications",Kildare,4941.0,210312.0,42084.0,2.3493666552550496
+2016,"Transport, storage and communications",Kildare,8272.0,222504.0,44092.0,3.717685974184734
+2011,"Transport, storage and communications",Kilkenny,1470.0,95419.0,36856.0,1.540573680294281
+2016,"Transport, storage and communications",Kilkenny,1991.0,99232.0,37338.0,2.0064092228313446
+2011,"Transport, storage and communications",Laois,1716.0,80559.0,37253.0,2.130115815737534
+2016,"Transport, storage and communications",Laois,2286.0,84697.0,37703.0,2.6990330236017805
+2011,"Transport, storage and communications",Longford,564.0,39000.0,33473.0,1.4461538461538461
+2016,"Transport, storage and communications",Longford,756.0,40873.0,34144.0,1.8496317862647715
+2011,"Transport, storage and communications",Louth,2675.0,122897.0,36209.0,2.176619445551966
+2016,"Transport, storage and communications",Louth,3948.0,128884.0,37147.0,3.0632196393656312
+2011,"Transport, storage and communications",Meath,5241.0,184135.0,41083.0,2.8462812610313084
+2016,"Transport, storage and communications",Meath,7975.0,195044.0,42755.0,4.088820983983101
+2011,"Transport, storage and communications",Offaly,1099.0,76687.0,35380.0,1.4330981783092311
+2016,"Transport, storage and communications",Offaly,1497.0,77961.0,35901.0,1.920190864663101
+2011,"Transport, storage and communications",Westmeath,1593.0,86164.0,37076.0,1.84879996286152
+2016,"Transport, storage and communications",Westmeath,2426.0,88770.0,37856.0,2.7329052607863016
+2011,"Transport, storage and communications",Wexford,2422.0,145320.0,33672.0,1.6666666666666667
+2016,"Transport, storage and communications",Wexford,3492.0,149722.0,34430.0,2.3323225711652262
+2011,"Transport, storage and communications",Wicklow,2305.0,136640.0,41725.0,1.6869145199063234
+2016,"Transport, storage and communications",Wicklow,5086.0,142425.0,43075.0,3.5710022819027554
+2011,"Transport, storage and communications",Clare,2827.0,117196.0,38592.0,2.4121983685450017
+2016,"Transport, storage and communications",Clare,3931.0,118817.0,39716.0,3.308449127650084
+2011,"Transport, storage and communications",Cork,9662.0,519032.0,39169.0,1.8615422555834709
+2016,"Transport, storage and communications",Cork,18127.0,542868.0,41122.0,3.3391174281777523
+2011,"Transport, storage and communications",Kerry,2042.0,145502.0,34455.0,1.4034171351596543
+2016,"Transport, storage and communications",Kerry,2761.0,147707.0,34700.0,1.8692411327831449
+2011,"Transport, storage and communications",Limerick,3833.0,191809.0,38156.0,1.9983421007356277
+2016,"Transport, storage and communications",Limerick,5652.0,194899.0,39464.0,2.899963570875171
+2011,"Transport, storage and communications",Tipperary,2253.0,158754.0,35722.0,1.4191768396386863
+2016,"Transport, storage and communications",Tipperary,3013.0,159553.0,36390.0,1.8884007195101316
+2011,"Transport, storage and communications",Waterford,1926.0,113795.0,36959.0,1.6925172459246893
+2016,"Transport, storage and communications",Waterford,2383.0,116176.0,37279.0,2.0511981820685854
+2011,"Transport, storage and communications",Galway,3902.0,250653.0,37499.0,1.5567338112849238
+2016,"Transport, storage and communications",Galway,7592.0,258058.0,39042.0,2.9419742848506925
+2011,"Transport, storage and communications",Leitrim,410.0,31798.0,34461.0,1.2893892697653941
+2016,"Transport, storage and communications",Leitrim,567.0,32044.0,34848.0,1.7694420172263137
+2011,"Transport, storage and communications",Mayo,1697.0,130638.0,34117.0,1.299009476568839
+2016,"Transport, storage and communications",Mayo,2278.0,130507.0,35036.0,1.7455002413663636
+2011,"Transport, storage and communications",Roscommon,1079.0,64065.0,35515.0,1.6842269569968
+2016,"Transport, storage and communications",Roscommon,1404.0,64544.0,36199.0,2.175260287555776
+2011,"Transport, storage and communications",Sligo,977.0,65393.0,36340.0,1.4940437049837139
+2016,"Transport, storage and communications",Sligo,1224.0,65535.0,37071.0,1.867704280155642
+2011,"Transport, storage and communications",Cavan,1054.0,73183.0,34489.0,1.4402251889099926
+2016,"Transport, storage and communications",Cavan,1461.0,76176.0,35327.0,1.9179269061121613
+2011,"Transport, storage and communications",Donegal,2070.0,161137.0,31776.0,1.2846211608755282
+2016,"Transport, storage and communications",Donegal,3841.0,159192.0,31683.0,2.412809688929092
+2011,"Transport, storage and communications",Monaghan,1019.0,60483.0,32502.0,1.684770927368021
+2016,"Transport, storage and communications",Monaghan,1311.0,61386.0,32297.0,2.1356661127944485
+2011,Banking and financial services,Carlow,588.0,54612.0,34815.0,1.076686442540101
+2016,Banking and financial services,Carlow,594.0,56932.0,35234.0,1.0433499613574089
+2011,Banking and financial services,Dublin,48606.0,1273069.0,44243.0,3.818017719385202
+2016,Banking and financial services,Dublin,48485.0,1347359.0,46976.0,3.59852125528534
+2011,Banking and financial services,Kildare,4719.0,210312.0,42084.0,2.243809197763323
+2016,Banking and financial services,Kildare,4796.0,222504.0,44092.0,2.1554668680113616
+2011,Banking and financial services,Kilkenny,1659.0,95419.0,36856.0,1.7386474391892601
+2016,Banking and financial services,Kilkenny,1901.0,99232.0,37338.0,1.9157126733311836
+2011,Banking and financial services,Laois,991.0,80559.0,37253.0,1.2301542968507555
+2016,Banking and financial services,Laois,906.0,84697.0,37703.0,1.0696955027923067
+2011,Banking and financial services,Longford,333.0,39000.0,33473.0,0.8538461538461538
+2016,Banking and financial services,Longford,269.0,40873.0,34144.0,0.6581361779169623
+2011,Banking and financial services,Louth,1766.0,122897.0,36209.0,1.4369756788204757
+2016,Banking and financial services,Louth,2455.0,128884.0,37147.0,1.9048136308618604
+2011,Banking and financial services,Meath,3966.0,184135.0,41083.0,2.1538545089200856
+2016,Banking and financial services,Meath,3826.0,195044.0,42755.0,1.961608662660733
+2011,Banking and financial services,Offaly,719.0,76687.0,35380.0,0.9375774251176863
+2016,Banking and financial services,Offaly,628.0,77961.0,35901.0,0.8055309706135119
+2011,Banking and financial services,Westmeath,983.0,86164.0,37076.0,1.1408476858084584
+2016,Banking and financial services,Westmeath,898.0,88770.0,37856.0,1.0116030190379632
+2011,Banking and financial services,Wexford,1978.0,145320.0,33672.0,1.3611340489953205
+2016,Banking and financial services,Wexford,1873.0,149722.0,34430.0,1.2509851591616463
+2011,Banking and financial services,Wicklow,3496.0,136640.0,41725.0,2.5585480093676813
+2016,Banking and financial services,Wicklow,3177.0,142425.0,43075.0,2.230647709320695
+2011,Banking and financial services,Clare,1529.0,117196.0,38592.0,1.3046520359056624
+2016,Banking and financial services,Clare,1381.0,118817.0,39716.0,1.1622915912706093
+2011,Banking and financial services,Cork,6379.0,519032.0,39169.0,1.2290186346891905
+2016,Banking and financial services,Cork,5715.0,542868.0,41122.0,1.0527421030526758
+2011,Banking and financial services,Kerry,1752.0,145502.0,34455.0,1.2041071600390374
+2016,Banking and financial services,Kerry,1697.0,147707.0,34700.0,1.1488961254375216
+2011,Banking and financial services,Limerick,2038.0,191809.0,38156.0,1.0625153147141166
+2016,Banking and financial services,Limerick,2045.0,194899.0,39464.0,1.0492614123212536
+2011,Banking and financial services,Tipperary,1517.0,158754.0,35722.0,0.9555664739156179
+2016,Banking and financial services,Tipperary,1376.0,159553.0,36390.0,0.8624093561387125
+2011,Banking and financial services,Waterford,1243.0,113795.0,36959.0,1.0923151280811987
+2016,Banking and financial services,Waterford,1164.0,116176.0,37279.0,1.0019281090758847
+2011,Banking and financial services,Galway,3076.0,250653.0,37499.0,1.2271945677889353
+2016,Banking and financial services,Galway,2718.0,258058.0,39042.0,1.0532515946027639
+2011,Banking and financial services,Leitrim,332.0,31798.0,34461.0,1.0440908233222215
+2016,Banking and financial services,Leitrim,285.0,32044.0,34848.0,0.8894020721507927
+2011,Banking and financial services,Mayo,1018.0,130638.0,34117.0,0.7792525911296866
+2016,Banking and financial services,Mayo,797.0,130507.0,35036.0,0.6106952117510939
+2011,Banking and financial services,Roscommon,658.0,64065.0,35515.0,1.0270818699758058
+2016,Banking and financial services,Roscommon,561.0,64544.0,36199.0,0.8691745166088249
+2011,Banking and financial services,Sligo,566.0,65393.0,36340.0,0.8655360665514658
+2016,Banking and financial services,Sligo,460.0,65535.0,37071.0,0.7019150072480355
+2011,Banking and financial services,Cavan,953.0,73183.0,34489.0,1.3022149952857904
+2016,Banking and financial services,Cavan,805.0,76176.0,35327.0,1.0567632850241546
+2011,Banking and financial services,Donegal,1769.0,161137.0,31776.0,1.097823591105705
+2016,Banking and financial services,Donegal,1603.0,159192.0,31683.0,1.0069601487511934
+2011,Banking and financial services,Monaghan,517.0,60483.0,32502.0,0.8547856422465817
+2016,Banking and financial services,Monaghan,463.0,61386.0,32297.0,0.7542436386146678
+2011,"Real estate, renting and business activities",Carlow,1408.0,54612.0,34815.0,2.578187944041603
+2016,"Real estate, renting and business activities",Carlow,1760.0,56932.0,35234.0,3.0914072929108407
+2011,"Real estate, renting and business activities",Dublin,82887.0,1273069.0,44243.0,6.510801849703355
+2016,"Real estate, renting and business activities",Dublin,79844.0,1347359.0,46976.0,5.925963310446584
+2011,"Real estate, renting and business activities",Kildare,8663.0,210312.0,42084.0,4.1191182623911144
+2016,"Real estate, renting and business activities",Kildare,9202.0,222504.0,44092.0,4.1356559882069535
+2011,"Real estate, renting and business activities",Kilkenny,2449.0,95419.0,36856.0,2.5665747911841454
+2016,"Real estate, renting and business activities",Kilkenny,3170.0,99232.0,37338.0,3.194534021283457
+2011,"Real estate, renting and business activities",Laois,2004.0,80559.0,37253.0,2.487617770826351
+2016,"Real estate, renting and business activities",Laois,2360.0,84697.0,37703.0,2.7864032964567813
+2011,"Real estate, renting and business activities",Longford,854.0,39000.0,33473.0,2.1897435897435895
+2016,"Real estate, renting and business activities",Longford,932.0,40873.0,34144.0,2.280233895236464
+2011,"Real estate, renting and business activities",Louth,3625.0,122897.0,36209.0,2.949624482290048
+2016,"Real estate, renting and business activities",Louth,4138.0,128884.0,37147.0,3.2106390242388505
+2011,"Real estate, renting and business activities",Meath,6863.0,184135.0,41083.0,3.7271567056778996
+2016,"Real estate, renting and business activities",Meath,7486.0,195044.0,42755.0,3.838108324275548
+2011,"Real estate, renting and business activities",Offaly,1593.0,76687.0,35380.0,2.0772751574582395
+2016,"Real estate, renting and business activities",Offaly,1938.0,77961.0,35901.0,2.4858583137722707
+2011,"Real estate, renting and business activities",Westmeath,2287.0,86164.0,37076.0,2.654240750197298
+2016,"Real estate, renting and business activities",Westmeath,2561.0,88770.0,37856.0,2.8849836656528107
+2011,"Real estate, renting and business activities",Wexford,3276.0,145320.0,33672.0,2.254335260115607
+2016,"Real estate, renting and business activities",Wexford,4454.0,149722.0,34430.0,2.9748467159134933
+2011,"Real estate, renting and business activities",Wicklow,6088.0,136640.0,41725.0,4.455503512880562
+2016,"Real estate, renting and business activities",Wicklow,6341.0,142425.0,43075.0,4.452167807618045
+2011,"Real estate, renting and business activities",Clare,3496.0,117196.0,38592.0,2.9830369637188983
+2016,"Real estate, renting and business activities",Clare,3904.0,118817.0,39716.0,3.285725106676654
+2011,"Real estate, renting and business activities",Cork,20618.0,519032.0,39169.0,3.9723947656406544
+2016,"Real estate, renting and business activities",Cork,23191.0,542868.0,41122.0,4.271940876971934
+2011,"Real estate, renting and business activities",Kerry,3471.0,145502.0,34455.0,2.385534219460901
+2016,"Real estate, renting and business activities",Kerry,4371.0,147707.0,34700.0,2.9592368675824434
+2011,"Real estate, renting and business activities",Limerick,5941.0,191809.0,38156.0,3.0973520533447334
+2016,"Real estate, renting and business activities",Limerick,6588.0,194899.0,39464.0,3.3802123150965366
+2011,"Real estate, renting and business activities",Tipperary,3410.0,158754.0,35722.0,2.1479773737984558
+2016,"Real estate, renting and business activities",Tipperary,4340.0,159553.0,36390.0,2.7200992773561135
+2011,"Real estate, renting and business activities",Waterford,3289.0,113795.0,36959.0,2.890285161913968
+2016,"Real estate, renting and business activities",Waterford,4155.0,116176.0,37279.0,3.5764701831703625
+2011,"Real estate, renting and business activities",Galway,8860.0,250653.0,37499.0,3.5347671881046705
+2016,"Real estate, renting and business activities",Galway,8180.0,258058.0,39042.0,3.1698300382084645
+2011,"Real estate, renting and business activities",Leitrim,921.0,31798.0,34461.0,2.896408579155922
+2016,"Real estate, renting and business activities",Leitrim,884.0,32044.0,34848.0,2.7587067781800023
+2011,"Real estate, renting and business activities",Mayo,2931.0,130638.0,34117.0,2.2436044642447066
+2016,"Real estate, renting and business activities",Mayo,3308.0,130507.0,35036.0,2.5347299378577395
+2011,"Real estate, renting and business activities",Roscommon,1576.0,64065.0,35515.0,2.460001560914696
+2016,"Real estate, renting and business activities",Roscommon,1706.0,64544.0,36199.0,2.6431581556767476
+2011,"Real estate, renting and business activities",Sligo,1577.0,65393.0,36340.0,2.411573104154879
+2016,"Real estate, renting and business activities",Sligo,1811.0,65535.0,37071.0,2.763408865491722
+2011,"Real estate, renting and business activities",Cavan,1478.0,73183.0,34489.0,2.0195947146195157
+2016,"Real estate, renting and business activities",Cavan,1877.0,76176.0,35327.0,2.464030665826507
+2011,"Real estate, renting and business activities",Donegal,3518.0,161137.0,31776.0,2.183235383555608
+2016,"Real estate, renting and business activities",Donegal,3600.0,159192.0,31683.0,2.261420171867933
+2011,"Real estate, renting and business activities",Monaghan,1168.0,60483.0,32502.0,1.9311211414777707
+2016,"Real estate, renting and business activities",Monaghan,1541.0,61386.0,32297.0,2.510344378196983
+2011,Public administration and defence,Carlow,1067.0,54612.0,34815.0,1.9537830513440269
+2016,Public administration and defence,Carlow,1059.0,56932.0,35234.0,1.8601138199957845
+2011,Public administration and defence,Dublin,35152.0,1273069.0,44243.0,2.761201474546941
+2016,Public administration and defence,Dublin,32663.0,1347359.0,46976.0,2.4242239818786233
+2011,Public administration and defence,Kildare,6636.0,210312.0,42084.0,3.1553121077256647
+2016,Public administration and defence,Kildare,6144.0,222504.0,44092.0,2.761298673282278
+2011,Public administration and defence,Kilkenny,2245.0,95419.0,36856.0,2.3527808926943274
+2016,Public administration and defence,Kilkenny,2144.0,99232.0,37338.0,2.160593356981619
+2011,Public administration and defence,Laois,2630.0,80559.0,37253.0,3.2646879926513486
+2016,Public administration and defence,Laois,2543.0,84697.0,37703.0,3.0024676198684723
+2011,Public administration and defence,Longford,1034.0,39000.0,33473.0,2.651282051282051
+2016,Public administration and defence,Longford,928.0,40873.0,34144.0,2.2704474836689257
+2011,Public administration and defence,Louth,2676.0,122897.0,36209.0,2.177433135064322
+2016,Public administration and defence,Louth,2525.0,128884.0,37147.0,1.9591260358151514
+2011,Public administration and defence,Meath,4978.0,184135.0,41083.0,2.7034512721644446
+2016,Public administration and defence,Meath,4734.0,195044.0,42755.0,2.427144644285392
+2011,Public administration and defence,Offaly,2068.0,76687.0,35380.0,2.6966760989476706
+2016,Public administration and defence,Offaly,1830.0,77961.0,35901.0,2.347327509908801
+2011,Public administration and defence,Westmeath,2475.0,86164.0,37076.0,2.872429320830045
+2016,Public administration and defence,Westmeath,2223.0,88770.0,37856.0,2.5042244001351808
+2011,Public administration and defence,Wexford,3034.0,145320.0,33672.0,2.0878062207541976
+2016,Public administration and defence,Wexford,2870.0,149722.0,34430.0,1.916885961982875
+2011,Public administration and defence,Wicklow,2817.0,136640.0,41725.0,2.061621779859485
+2016,Public administration and defence,Wicklow,2584.0,142425.0,43075.0,1.8142882218711605
+2011,Public administration and defence,Clare,2637.0,117196.0,38592.0,2.250076794429844
+2016,Public administration and defence,Clare,2756.0,118817.0,39716.0,2.319533400102679
+2011,Public administration and defence,Cork,10998.0,519032.0,39169.0,2.118944496678432
+2016,Public administration and defence,Cork,10472.0,542868.0,41122.0,1.9290140512979215
+2011,Public administration and defence,Kerry,2945.0,145502.0,34455.0,2.0240271611386786
+2016,Public administration and defence,Kerry,2945.0,147707.0,34700.0,1.993812073903065
+2011,Public administration and defence,Limerick,3460.0,191809.0,38156.0,1.8038778159523274
+2016,Public administration and defence,Limerick,3374.0,194899.0,39464.0,1.73115305876377
+2011,Public administration and defence,Tipperary,3873.0,158754.0,35722.0,2.439623568540005
+2016,Public administration and defence,Tipperary,3484.0,159553.0,36390.0,2.183600433711682
+2011,Public administration and defence,Waterford,2125.0,113795.0,36959.0,1.867393119205589
+2016,Public administration and defence,Waterford,1976.0,116176.0,37279.0,1.7008676490841483
+2011,Public administration and defence,Galway,5190.0,250653.0,37499.0,2.0705916147023973
+2016,Public administration and defence,Galway,4714.0,258058.0,39042.0,1.8267211247083988
+2011,Public administration and defence,Leitrim,1029.0,31798.0,34461.0,3.236052581923391
+2016,Public administration and defence,Leitrim,1005.0,32044.0,34848.0,3.136312570215953
+2011,Public administration and defence,Mayo,3203.0,130638.0,34117.0,2.451813408043601
+2016,Public administration and defence,Mayo,2882.0,130507.0,35036.0,2.2083106653282965
+2011,Public administration and defence,Roscommon,2373.0,64065.0,35515.0,3.7040505736361506
+2016,Public administration and defence,Roscommon,2159.0,64544.0,36199.0,3.3450049578582055
+2011,Public administration and defence,Sligo,2061.0,65393.0,36340.0,3.1517134861529525
+2016,Public administration and defence,Sligo,1951.0,65535.0,37071.0,2.9770351720454715
+2011,Public administration and defence,Cavan,1632.0,73183.0,34489.0,2.230026098957408
+2016,Public administration and defence,Cavan,1449.0,76176.0,35327.0,1.9021739130434785
+2011,Public administration and defence,Donegal,3877.0,161137.0,31776.0,2.4060271694272575
+2016,Public administration and defence,Donegal,3391.0,159192.0,31683.0,2.1301321674456
+2011,Public administration and defence,Monaghan,1306.0,60483.0,32502.0,2.1592844270290823
+2016,Public administration and defence,Monaghan,1124.0,61386.0,32297.0,1.8310363926628221
+2011,Education,Carlow,1819.0,54612.0,34815.0,3.330769794184428
+2016,Education,Carlow,1975.0,56932.0,35234.0,3.4690507974425633
+2011,Education,Dublin,47528.0,1273069.0,44243.0,3.733340455230628
+2016,Education,Dublin,50322.0,1347359.0,46976.0,3.7348620523557563
+2011,Education,Kildare,7778.0,210312.0,42084.0,3.6983148845524743
+2016,Education,Kildare,8822.0,222504.0,44092.0,3.9648725416172295
+2011,Education,Kilkenny,3365.0,95419.0,36856.0,3.5265513157756843
+2016,Education,Kilkenny,3767.0,99232.0,37338.0,3.796154466301193
+2011,Education,Laois,2482.0,80559.0,37253.0,3.080971710175151
+2016,Education,Laois,2806.0,84697.0,37703.0,3.312986292312597
+2011,Education,Longford,1233.0,39000.0,33473.0,3.1615384615384614
+2016,Education,Longford,1248.0,40873.0,34144.0,3.0533604090720035
+2011,Education,Louth,4146.0,122897.0,36209.0,3.3735567182274586
+2016,Education,Louth,4564.0,128884.0,37147.0,3.5411688029545947
+2011,Education,Meath,6160.0,184135.0,41083.0,3.345371602356966
+2016,Education,Meath,6710.0,195044.0,42755.0,3.440249379627161
+2011,Education,Offaly,2249.0,76687.0,35380.0,2.9327004577046956
+2016,Education,Offaly,2454.0,77961.0,35901.0,3.1477277100088505
+2011,Education,Westmeath,3027.0,86164.0,37076.0,3.5130681026878974
+2016,Education,Westmeath,3118.0,88770.0,37856.0,3.512447899064999
+2011,Education,Wexford,4459.0,145320.0,33672.0,3.0684007707129095
+2016,Education,Wexford,4915.0,149722.0,34430.0,3.28275069796022
+2011,Education,Wicklow,4797.0,136640.0,41725.0,3.5106850117096013
+2016,Education,Wicklow,5347.0,142425.0,43075.0,3.754256626294541
+2011,Education,Clare,4299.0,117196.0,38592.0,3.668213932216117
+2016,Education,Clare,4579.0,118817.0,39716.0,3.8538256310123975
+2011,Education,Cork,18577.0,519032.0,39169.0,3.5791627491175886
+2016,Education,Cork,20589.0,542868.0,41122.0,3.792634673622317
+2011,Education,Kerry,4804.0,145502.0,34455.0,3.30167282923946
+2016,Education,Kerry,5215.0,147707.0,34700.0,3.5306383583716414
+2011,Education,Limerick,7186.0,191809.0,38156.0,3.746435255905614
+2016,Education,Limerick,7705.0,194899.0,39464.0,3.953329673317975
+2011,Education,Tipperary,5451.0,158754.0,35722.0,3.433614271136475
+2016,Education,Tipperary,5849.0,159553.0,36390.0,3.665866514575094
+2011,Education,Waterford,4089.0,113795.0,36959.0,3.5933037479678367
+2016,Education,Waterford,4332.0,116176.0,37279.0,3.7288252306844787
+2011,Education,Galway,10538.0,250653.0,37499.0,4.204218581066255
+2016,Education,Galway,11117.0,258058.0,39042.0,4.30794627564346
+2011,Education,Leitrim,1093.0,31798.0,34461.0,3.437323102081892
+2016,Education,Leitrim,1159.0,32044.0,34848.0,3.61690176007989
+2011,Education,Mayo,4190.0,130638.0,34117.0,3.2073363033726787
+2016,Education,Mayo,4365.0,130507.0,35036.0,3.3446481797911223
+2011,Education,Roscommon,2130.0,64065.0,35515.0,3.3247483025052684
+2016,Education,Roscommon,2284.0,64544.0,36199.0,3.538671294000992
+2011,Education,Sligo,2360.0,65393.0,36340.0,3.6089489700732496
+2016,Education,Sligo,2517.0,65535.0,37071.0,3.8406958113984895
+2011,Education,Cavan,2172.0,73183.0,34489.0,2.9679023817006684
+2016,Education,Cavan,2531.0,76176.0,35327.0,3.322568788069733
+2011,Education,Donegal,5811.0,161137.0,31776.0,3.606248099443331
+2016,Education,Donegal,6328.0,159192.0,31683.0,3.975074124327856
+2011,Education,Monaghan,1985.0,60483.0,32502.0,3.281913926227204
+2016,Education,Monaghan,2237.0,61386.0,32297.0,3.644153390023784
+2011,Health and social work,Carlow,2005.0,54612.0,34815.0,3.671354281110379
+2016,Health and social work,Carlow,2215.0,56932.0,35234.0,3.8906063373849507
+2011,Health and social work,Dublin,59885.0,1273069.0,44243.0,4.703986979496006
+2016,Health and social work,Dublin,65189.0,1347359.0,46976.0,4.838279923910405
+2011,Health and social work,Kildare,8632.0,210312.0,42084.0,4.104378257065693
+2016,Health and social work,Kildare,9586.0,222504.0,44092.0,4.308237155287096
+2011,Health and social work,Kilkenny,4910.0,95419.0,36856.0,5.145725694044163
+2016,Health and social work,Kilkenny,5533.0,99232.0,37338.0,5.575822315382135
+2011,Health and social work,Laois,3459.0,80559.0,37253.0,4.293747439764645
+2016,Health and social work,Laois,3980.0,84697.0,37703.0,4.699103864363555
+2011,Health and social work,Longford,1495.0,39000.0,33473.0,3.833333333333333
+2016,Health and social work,Longford,1696.0,40873.0,34144.0,4.149438504636312
+2011,Health and social work,Louth,5289.0,122897.0,36209.0,4.303603830850224
+2016,Health and social work,Louth,5840.0,128884.0,37147.0,4.531206356103162
+2011,Health and social work,Meath,7521.0,184135.0,41083.0,4.084503217747848
+2016,Health and social work,Meath,8258.0,195044.0,42755.0,4.233916449621624
+2011,Health and social work,Offaly,3030.0,76687.0,35380.0,3.9511260057115285
+2016,Health and social work,Offaly,3576.0,77961.0,35901.0,4.586908839034902
+2011,Health and social work,Westmeath,3753.0,86164.0,37076.0,4.355647370131377
+2016,Health and social work,Westmeath,4203.0,88770.0,37856.0,4.7347076715106455
+2011,Health and social work,Wexford,5586.0,145320.0,33672.0,3.8439306358381504
+2016,Health and social work,Wexford,5975.0,149722.0,34430.0,3.9907294853127793
+2011,Health and social work,Wicklow,5321.0,136640.0,41725.0,3.8941744730679155
+2016,Health and social work,Wicklow,6387.0,142425.0,43075.0,4.484465508162191
+2011,Health and social work,Clare,4484.0,117196.0,38592.0,3.8260691491177177
+2016,Health and social work,Clare,4852.0,118817.0,39716.0,4.083590731965964
+2011,Health and social work,Cork,23425.0,519032.0,39169.0,4.513209204827448
+2016,Health and social work,Cork,25187.0,542868.0,41122.0,4.63961773396111
+2011,Health and social work,Kerry,6439.0,145502.0,34455.0,4.425368723453974
+2016,Health and social work,Kerry,6839.0,147707.0,34700.0,4.630112316951803
+2011,Health and social work,Limerick,8145.0,191809.0,38156.0,4.246411795066968
+2016,Health and social work,Limerick,8902.0,194899.0,39464.0,4.567493932754914
+2011,Health and social work,Tipperary,6533.0,158754.0,35722.0,4.115171901180443
+2016,Health and social work,Tipperary,7045.0,159553.0,36390.0,4.41546069331194
+2011,Health and social work,Waterford,4843.0,113795.0,36959.0,4.255898765323608
+2016,Health and social work,Waterford,5334.0,116176.0,37279.0,4.5913097369508336
+2011,Health and social work,Galway,12497.0,250653.0,37499.0,4.985777150083981
+2016,Health and social work,Galway,14272.0,258058.0,39042.0,5.530539646126065
+2011,Health and social work,Leitrim,1603.0,31798.0,34461.0,5.041197559594943
+2016,Health and social work,Leitrim,1722.0,32044.0,34848.0,5.373860941205842
+2011,Health and social work,Mayo,5695.0,130638.0,34117.0,4.359374760789357
+2016,Health and social work,Mayo,6400.0,130507.0,35036.0,4.9039515121794235
+2011,Health and social work,Roscommon,2783.0,64065.0,35515.0,4.344025599001014
+2016,Health and social work,Roscommon,3343.0,64544.0,36199.0,5.179412493802677
+2011,Health and social work,Sligo,3846.0,65393.0,36340.0,5.881363448687169
+2016,Health and social work,Sligo,4018.0,65535.0,37071.0,6.131074998092622
+2011,Health and social work,Cavan,3000.0,73183.0,34489.0,4.0993126819070005
+2016,Health and social work,Cavan,3234.0,76176.0,35327.0,4.245431632010082
+2011,Health and social work,Donegal,6783.0,161137.0,31776.0,4.209461514115318
+2016,Health and social work,Donegal,7420.0,159192.0,31683.0,4.661038243127796
+2011,Health and social work,Monaghan,2417.0,60483.0,32502.0,3.9961642114313114
+2016,Health and social work,Monaghan,2719.0,61386.0,32297.0,4.429348711432574
+2011,"Other community, social and personal service activities",Carlow,823.0,54612.0,34815.0,1.5069947996777264
+2016,"Other community, social and personal service activities",Carlow,715.0,56932.0,35234.0,1.2558842127450291
+2011,"Other community, social and personal service activities",Dublin,28927.0,1273069.0,44243.0,2.272225621706286
+2016,"Other community, social and personal service activities",Dublin,26591.0,1347359.0,46976.0,1.9735645807835922
+2011,"Other community, social and personal service activities",Kildare,4172.0,210312.0,42084.0,1.983719426376051
+2016,"Other community, social and personal service activities",Kildare,3754.0,222504.0,44092.0,1.6871606802574335
+2011,"Other community, social and personal service activities",Kilkenny,1564.0,95419.0,36856.0,1.6390865550886091
+2016,"Other community, social and personal service activities",Kilkenny,1479.0,99232.0,37338.0,1.4904466301193164
+2011,"Other community, social and personal service activities",Laois,1253.0,80559.0,37253.0,1.5553817698829429
+2016,"Other community, social and personal service activities",Laois,1120.0,84697.0,37703.0,1.3223608864540657
+2011,"Other community, social and personal service activities",Longford,534.0,39000.0,33473.0,1.3692307692307693
+2016,"Other community, social and personal service activities",Longford,487.0,40873.0,34144.0,1.191495608347809
+2011,"Other community, social and personal service activities",Louth,2383.0,122897.0,36209.0,1.9390221079440506
+2016,"Other community, social and personal service activities",Louth,2332.0,128884.0,37147.0,1.809378976443934
+2011,"Other community, social and personal service activities",Meath,3480.0,184135.0,41083.0,1.8899177234094549
+2016,"Other community, social and personal service activities",Meath,3406.0,195044.0,42755.0,1.7462726359180492
+2011,"Other community, social and personal service activities",Offaly,1213.0,76687.0,35380.0,1.5817544042666947
+2016,"Other community, social and personal service activities",Offaly,1078.0,77961.0,35901.0,1.382742653377971
+2011,"Other community, social and personal service activities",Westmeath,1302.0,86164.0,37076.0,1.5110719093821086
+2016,"Other community, social and personal service activities",Westmeath,1253.0,88770.0,37856.0,1.411512898501746
+2011,"Other community, social and personal service activities",Wexford,2473.0,145320.0,33672.0,1.7017616295072941
+2016,"Other community, social and personal service activities",Wexford,2597.0,149722.0,34430.0,1.7345480290137723
+2011,"Other community, social and personal service activities",Wicklow,3344.0,136640.0,41725.0,2.447306791569087
+2016,"Other community, social and personal service activities",Wicklow,3042.0,142425.0,43075.0,2.1358609794628753
+2011,"Other community, social and personal service activities",Clare,1833.0,117196.0,38592.0,1.5640465544899143
+2016,"Other community, social and personal service activities",Clare,1791.0,118817.0,39716.0,1.507360057904172
+2011,"Other community, social and personal service activities",Cork,8556.0,519032.0,39169.0,1.6484532745572527
+2016,"Other community, social and personal service activities",Cork,8614.0,542868.0,41122.0,1.5867577385294398
+2011,"Other community, social and personal service activities",Kerry,2345.0,145502.0,34455.0,1.611661695371885
+2016,"Other community, social and personal service activities",Kerry,2319.0,147707.0,34700.0,1.5700000677015984
+2011,"Other community, social and personal service activities",Limerick,2953.0,191809.0,38156.0,1.5395523671986195
+2016,"Other community, social and personal service activities",Limerick,2788.0,194899.0,39464.0,1.4304845073602226
+2011,"Other community, social and personal service activities",Tipperary,2578.0,158754.0,35722.0,1.6238960908071607
+2016,"Other community, social and personal service activities",Tipperary,2216.0,159553.0,36390.0,1.3888801840140894
+2011,"Other community, social and personal service activities",Waterford,1822.0,113795.0,36959.0,1.601124829737686
+2016,"Other community, social and personal service activities",Waterford,1752.0,116176.0,37279.0,1.5080567414956618
+2011,"Other community, social and personal service activities",Galway,4374.0,250653.0,37499.0,1.7450419504254886
+2016,"Other community, social and personal service activities",Galway,3979.0,258058.0,39042.0,1.5419014330111835
+2011,"Other community, social and personal service activities",Leitrim,480.0,31798.0,34461.0,1.509528901188754
+2016,"Other community, social and personal service activities",Leitrim,497.0,32044.0,34848.0,1.5509923854699788
+2011,"Other community, social and personal service activities",Mayo,1988.0,130638.0,34117.0,1.5217624274713328
+2016,"Other community, social and personal service activities",Mayo,2109.0,130507.0,35036.0,1.6160052717478754
+2011,"Other community, social and personal service activities",Roscommon,907.0,64065.0,35515.0,1.4157496292827598
+2016,"Other community, social and personal service activities",Roscommon,940.0,64544.0,36199.0,1.4563708477937531
+2011,"Other community, social and personal service activities",Sligo,1051.0,65393.0,36340.0,1.6072056642148242
+2016,"Other community, social and personal service activities",Sligo,1092.0,65535.0,37071.0,1.6662851911192493
+2011,"Other community, social and personal service activities",Cavan,973.0,73183.0,34489.0,1.3295437464985036
+2016,"Other community, social and personal service activities",Cavan,1051.0,76176.0,35327.0,1.3796996429321573
+2011,"Other community, social and personal service activities",Donegal,2541.0,161137.0,31776.0,1.5769190192196703
+2016,"Other community, social and personal service activities",Donegal,2487.0,159192.0,31683.0,1.5622644353987638
+2011,"Other community, social and personal service activities",Monaghan,796.0,60483.0,32502.0,1.316072284774234
+2016,"Other community, social and personal service activities",Monaghan,836.0,61386.0,32297.0,1.3618740429413874
+2011,Industry not stated,Carlow,1429.0,54612.0,34815.0,2.6166410312751776
+2016,Industry not stated,Carlow,2076.0,56932.0,35234.0,3.6464554205016513
+2011,Industry not stated,Dublin,32941.0,1273069.0,44243.0,2.5875266776584773
+2016,Industry not stated,Dublin,61164.0,1347359.0,46976.0,4.53954736636635
+2011,Industry not stated,Kildare,3802.0,210312.0,42084.0,1.8077903305565066
+2016,Industry not stated,Kildare,5560.0,222504.0,44092.0,2.4988314816812283
+2011,Industry not stated,Kilkenny,1727.0,95419.0,36856.0,1.8099120720191997
+2016,Industry not stated,Kilkenny,2427.0,99232.0,37338.0,2.445783618187681
+2011,Industry not stated,Laois,2081.0,80559.0,37253.0,2.5831998907632916
+2016,Industry not stated,Laois,3027.0,84697.0,37703.0,3.5739164315146934
+2011,Industry not stated,Longford,943.0,39000.0,33473.0,2.417948717948718
+2016,Industry not stated,Longford,1394.0,40873.0,34144.0,3.410564431287158
+2011,Industry not stated,Louth,2343.0,122897.0,36209.0,1.9064745274498158
+2016,Industry not stated,Louth,3893.0,128884.0,37147.0,3.0205456069023304
+2011,Industry not stated,Meath,3565.0,184135.0,41083.0,1.9360795068835364
+2016,Industry not stated,Meath,5575.0,195044.0,42755.0,2.858329402596337
+2011,Industry not stated,Offaly,1557.0,76687.0,35380.0,2.0303310861032506
+2016,Industry not stated,Offaly,2481.0,77961.0,35901.0,3.1823604109747183
+2011,Industry not stated,Westmeath,1959.0,86164.0,37076.0,2.273571329093357
+2016,Industry not stated,Westmeath,2950.0,88770.0,37856.0,3.3231947730088995
+2011,Industry not stated,Wexford,2245.0,145320.0,33672.0,1.5448665015139003
+2016,Industry not stated,Wexford,3692.0,149722.0,34430.0,2.4659034744392945
+2011,Industry not stated,Wicklow,2812.0,136640.0,41725.0,2.057962529274005
+2016,Industry not stated,Wicklow,4291.0,142425.0,43075.0,3.0128137616289274
+2011,Industry not stated,Clare,2550.0,117196.0,38592.0,2.1758421789139564
+2016,Industry not stated,Clare,3794.0,118817.0,39716.0,3.1931457619700883
+2011,Industry not stated,Cork,10900.0,519032.0,39169.0,2.100063194562185
+2016,Industry not stated,Cork,14575.0,542868.0,41122.0,2.6848147247581364
+2011,Industry not stated,Kerry,3444.0,145502.0,34455.0,2.3669777735013953
+2016,Industry not stated,Kerry,5380.0,147707.0,34700.0,3.642345995788961
+2011,Industry not stated,Limerick,3771.0,191809.0,38156.0,1.9660182786000655
+2016,Industry not stated,Limerick,5791.0,194899.0,39464.0,2.971282561737105
+2011,Industry not stated,Tipperary,3394.0,158754.0,35722.0,2.137898887587084
+2016,Industry not stated,Tipperary,4753.0,159553.0,36390.0,2.9789474343948403
+2011,Industry not stated,Waterford,2444.0,113795.0,36959.0,2.147721780394569
+2016,Industry not stated,Waterford,3616.0,116176.0,37279.0,3.1125189367855666
+2011,Industry not stated,Galway,6174.0,250653.0,37499.0,2.463166209859846
+2016,Industry not stated,Galway,8094.0,258058.0,39042.0,3.1365041967309675
+2011,Industry not stated,Leitrim,703.0,31798.0,34461.0,2.2108308698660295
+2016,Industry not stated,Leitrim,1005.0,32044.0,34848.0,3.136312570215953
+2011,Industry not stated,Mayo,2200.0,130638.0,34117.0,1.6840429277851774
+2016,Industry not stated,Mayo,3069.0,130507.0,35036.0,2.351597998574789
+2011,Industry not stated,Roscommon,1301.0,64065.0,35515.0,2.0307500195114336
+2016,Industry not stated,Roscommon,1533.0,64544.0,36199.0,2.3751239464551315
+2011,Industry not stated,Sligo,1594.0,65393.0,36340.0,2.437569770464729
+2016,Industry not stated,Sligo,1612.0,65535.0,37071.0,2.4597543297474633
+2011,Industry not stated,Cavan,1517.0,73183.0,34489.0,2.0728857794843067
+2016,Industry not stated,Cavan,1877.0,76176.0,35327.0,2.464030665826507
+2011,Industry not stated,Donegal,2794.0,161137.0,31776.0,1.733928272215568
+2016,Industry not stated,Donegal,4447.0,159192.0,31683.0,2.7934820845268606
+2011,Industry not stated,Monaghan,1121.0,60483.0,32502.0,1.8534133558189905
+2016,Industry not stated,Monaghan,1913.0,61386.0,32297.0,3.11634574658717
+2011,All industries,Carlow,19502.0,54612.0,34815.0,35.71010034424668
+2016,All industries,Carlow,21973.0,56932.0,35234.0,38.59516616314199
+2011,All industries,Dublin,540729.0,1273069.0,44243.0,42.47444561135335
+2016,All industries,Dublin,614776.0,1347359.0,46976.0,45.62822529110653
+2011,All industries,Kildare,85587.0,210312.0,42084.0,40.69525276731713
+2016,All industries,Kildare,95947.0,222504.0,44092.0,43.12147197353756
+2011,All industries,Kilkenny,37273.0,95419.0,36856.0,39.062450874563766
+2016,All industries,Kilkenny,41363.0,99232.0,37338.0,41.683126410835214
+2011,All industries,Laois,30337.0,80559.0,37253.0,37.65811392892166
+2016,All industries,Laois,33541.0,84697.0,37703.0,39.60116651121055
+2011,All industries,Longford,13871.0,39000.0,33473.0,35.56666666666667
+2016,All industries,Longford,15172.0,40873.0,34144.0,37.119859075673425
+2011,All industries,Louth,44232.0,122897.0,36209.0,35.99111451052507
+2016,All industries,Louth,50317.0,128884.0,37147.0,39.04053257192514
+2011,All industries,Meath,74342.0,184135.0,41083.0,40.37363890623727
+2016,All industries,Meath,83259.0,195044.0,42755.0,42.68729107278358
+2011,All industries,Offaly,27536.0,76687.0,35380.0,35.90699857863784
+2016,All industries,Offaly,30287.0,77961.0,35901.0,38.84891163530483
+2011,All industries,Westmeath,32319.0,86164.0,37076.0,37.50870433127525
+2016,All industries,Westmeath,35289.0,88770.0,37856.0,39.75329503210544
+2011,All industries,Wexford,51307.0,145320.0,33672.0,35.30622075419763
+2016,All industries,Wexford,57759.0,149722.0,34430.0,38.577496961034456
+2011,All industries,Wicklow,52907.0,136640.0,41725.0,38.71999414519907
+2016,All industries,Wicklow,59134.0,142425.0,43075.0,41.51939617342461
+2011,All industries,Clare,45606.0,117196.0,38592.0,38.91429741629407
+2016,All industries,Clare,49511.0,118817.0,39716.0,41.66996305242516
+2011,All industries,Cork,207503.0,519032.0,39169.0,39.97884523497588
+2016,All industries,Cork,230373.0,542868.0,41122.0,42.4362828532903
+2011,All industries,Kerry,55767.0,145502.0,34455.0,38.32730821569463
+2016,All industries,Kerry,61222.0,147707.0,34700.0,41.44827259371594
+2011,All industries,Limerick,71041.0,191809.0,38156.0,37.03736529568477
+2016,All industries,Limerick,77185.0,194899.0,39464.0,39.60256337898091
+2011,All industries,Tipperary,60332.0,158754.0,35722.0,38.0034518815274
+2016,All industries,Tipperary,63472.0,159553.0,36390.0,39.78113855584038
+2011,All industries,Waterford,41942.0,113795.0,36959.0,36.857506920339205
+2016,All industries,Waterford,45595.0,116176.0,37279.0,39.246488087040355
+2011,All industries,Galway,100764.0,250653.0,37499.0,40.20059604313533
+2016,All industries,Galway,110067.0,258058.0,39042.0,42.652039463996466
+2011,All industries,Leitrim,11972.0,31798.0,34461.0,37.65016667714951
+2016,All industries,Leitrim,12728.0,32044.0,34848.0,39.72038447135189
+2011,All industries,Mayo,49076.0,130638.0,34117.0,37.5664048745388
+2016,All industries,Mayo,51439.0,130507.0,35036.0,39.41474403671833
+2011,All industries,Roscommon,24390.0,64065.0,35515.0,38.07070943572934
+2016,All industries,Roscommon,25819.0,64544.0,36199.0,40.002169062964796
+2011,All industries,Sligo,25434.0,65393.0,36340.0,38.89407123086569
+2016,All industries,Sligo,26002.0,65535.0,37071.0,39.67650873579004
+2011,All industries,Cavan,27309.0,73183.0,34489.0,37.31604334339942
+2016,All industries,Cavan,30509.0,76176.0,35327.0,40.05067212770426
+2011,All industries,Donegal,53277.0,161137.0,31776.0,33.063169849258706
+2016,All industries,Donegal,58353.0,159192.0,31683.0,36.655736469169305
+2011,All industries,Monaghan,23005.0,60483.0,32502.0,38.03548104426037
+2016,All industries,Monaghan,25549.0,61386.0,32297.0,41.620239142475484
