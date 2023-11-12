@@ -1,8 +1,4 @@
 Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmployement
-2002,"Agriculture, forestry and fishing",State,97281.0,3917203.0,80847.45,2.4834301413534097
-2006,"Agriculture, forestry and fishing",State,89277.0,4239848.0,112227.39,2.1056651087491813
-2011,"Agriculture, forestry and fishing",State,94247.0,4588252.0,114239.67,2.054093803043076
-2016,"Agriculture, forestry and fishing",State,89116.0,4761865.0,132583.2,1.871451626621082
 2002,"Agriculture, forestry and fishing",Carlow,1581.0,46014.0,809.06,3.4359108097535533
 2006,"Agriculture, forestry and fishing",Carlow,1413.0,50349.0,1187.51,2.8064112494786393
 2011,"Agriculture, forestry and fishing",Carlow,1397.0,54612.0,1236.43,2.5580458507287775
@@ -107,10 +103,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,"Agriculture, forestry and fishing",Monaghan,2627.0,55997.0,1296.83,4.691322749433005
 2011,"Agriculture, forestry and fishing",Monaghan,2860.0,60483.0,1274.55,4.728601425193856
 2016,"Agriculture, forestry and fishing",Monaghan,2850.0,61386.0,1386.76,4.642752419118366
-2002,"Mining, quarrying and turf production",State,6658.0,3917203.0,80847.45,0.16996821456534164
-2006,"Mining, quarrying and turf production",State,7751.0,4239848.0,112227.39,0.18281315745281435
-2011,"Mining, quarrying and turf production",State,5674.0,4588252.0,114239.67,0.12366365230157368
-2016,"Mining, quarrying and turf production",State,5055.0,4761865.0,132583.2,0.10615588640165145
 2002,"Mining, quarrying and turf production",Carlow,121.0,46014.0,809.06,0.2629634459077672
 2006,"Mining, quarrying and turf production",Carlow,156.0,50349.0,1187.51,0.3098373353989156
 2011,"Mining, quarrying and turf production",Carlow,149.0,54612.0,1236.43,0.2728338094191753
@@ -215,10 +207,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,"Mining, quarrying and turf production",Monaghan,121.0,55997.0,1296.83,0.2160830044466668
 2011,"Mining, quarrying and turf production",Monaghan,72.0,60483.0,1274.55,0.11904171420068449
 2016,"Mining, quarrying and turf production",Monaghan,87.0,61386.0,1386.76,0.14172612647835012
-2002,Manufacturing industries,State,244203.0,3917203.0,80847.45,6.234116536722759
-2006,Manufacturing industries,State,243182.0,4239848.0,112227.39,5.735630145231622
-2011,Manufacturing industries,State,193080.0,4588252.0,114239.67,4.208138524213578
-2016,Manufacturing industries,State,201315.0,4761865.0,132583.2,4.227650300880012
 2002,Manufacturing industries,Carlow,3648.0,46014.0,809.06,7.92802190637632
 2006,Manufacturing industries,Carlow,3491.0,50349.0,1187.51,6.933603447933424
 2011,Manufacturing industries,Carlow,2237.0,54612.0,1236.43,4.096169340071779
@@ -323,10 +311,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,Manufacturing industries,Monaghan,4129.0,55997.0,1296.83,7.373609300498241
 2011,Manufacturing industries,Monaghan,3316.0,60483.0,1274.55,5.482532281798191
 2016,Manufacturing industries,Monaghan,3316.0,61386.0,1386.76,5.401883165542632
-2002,"Electricity, gas and water supply",State,11363.0,3917203.0,80847.45,0.29007942657043817
-2006,"Electricity, gas and water supply",State,11290.0,4239848.0,112227.39,0.26628313090469286
-2011,"Electricity, gas and water supply",State,13116.0,4588252.0,114239.67,0.28586049763613686
-2016,"Electricity, gas and water supply",State,23178.0,4761865.0,132583.2,0.4867420642962369
 2002,"Electricity, gas and water supply",Carlow,87.0,46014.0,809.06,0.18907289085930368
 2006,"Electricity, gas and water supply",Carlow,77.0,50349.0,1187.51,0.15293253093408013
 2011,"Electricity, gas and water supply",Carlow,89.0,54612.0,1236.43,0.16296784589467517
@@ -431,10 +415,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,"Electricity, gas and water supply",Monaghan,110.0,55997.0,1296.83,0.19643909495151526
 2011,"Electricity, gas and water supply",Monaghan,130.0,60483.0,1274.55,0.21493642841790253
 2016,"Electricity, gas and water supply",Monaghan,281.0,61386.0,1386.76,0.45775909816570554
-2002,Construction,State,149271.0,3917203.0,80847.45,3.8106526519049435
-2006,Construction,State,215184.0,4239848.0,112227.39,5.0752762834894085
-2011,Construction,State,90357.0,4588252.0,114239.67,1.9693120604535235
-2016,Construction,State,101849.0,4761865.0,132583.2,2.1388468593712755
 2002,Construction,Carlow,1994.0,46014.0,809.06,4.333463728430478
 2006,Construction,Carlow,2711.0,50349.0,1187.51,5.384416770938847
 2011,Construction,Carlow,1122.0,54612.0,1236.43,2.0544935179081523
@@ -539,10 +519,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,Construction,Monaghan,3543.0,55997.0,1296.83,6.327124667392896
 2011,Construction,Monaghan,1591.0,60483.0,1274.55,2.630491212406792
 2016,Construction,Monaghan,1777.0,61386.0,1386.76,2.8947968592187143
-2002,Wholesale and retail trade,State,219165.0,3917203.0,80847.45,5.594935978554086
-2006,Wholesale and retail trade,State,257309.0,4239848.0,112227.39,6.068826052254703
-2011,Wholesale and retail trade,State,265751.0,4588252.0,114239.67,5.791987885582571
-2016,Wholesale and retail trade,State,266673.0,4761865.0,132583.2,5.600179761501009
 2002,Wholesale and retail trade,Carlow,2641.0,46014.0,809.06,5.739557525970357
 2006,Wholesale and retail trade,Carlow,3261.0,50349.0,1187.51,6.476791991896562
 2011,Wholesale and retail trade,Carlow,3500.0,54612.0,1236.43,6.408847872262506
@@ -647,10 +623,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,Wholesale and retail trade,Monaghan,3491.0,55997.0,1296.83,6.234262549779452
 2011,Wholesale and retail trade,Monaghan,3654.0,60483.0,1274.55,6.041366995684737
 2016,Wholesale and retail trade,Monaghan,3965.0,61386.0,1386.76,6.459127488352393
-2002,Hotels and restaurants,State,81418.0,3917203.0,80847.45,2.078472828699457
-2006,Hotels and restaurants,State,100731.0,4239848.0,112227.39,2.375816302848593
-2011,Hotels and restaurants,State,103560.0,4588252.0,114239.67,2.2570687050318945
-2016,Hotels and restaurants,State,116918.0,4761865.0,132583.2,2.4552985017424893
 2002,Hotels and restaurants,Carlow,812.0,46014.0,809.06,1.7646803146868344
 2006,Hotels and restaurants,Carlow,1146.0,50349.0,1187.51,2.276112733122803
 2011,Hotels and restaurants,Carlow,1078.0,54612.0,1236.43,1.9739251446568522
@@ -755,10 +727,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,Hotels and restaurants,Monaghan,1106.0,55997.0,1296.83,1.9751058092397806
 2011,Hotels and restaurants,Monaghan,1053.0,60483.0,1274.55,1.7409850701850107
 2016,Hotels and restaurants,Monaghan,1129.0,61386.0,1386.76,1.839181572345486
-2002,"Transport, storage and communications",State,96855.0,3917203.0,80847.45,2.47255503480417
-2006,"Transport, storage and communications",State,105705.0,4239848.0,112227.39,2.4931318292542564
-2011,"Transport, storage and communications",State,97569.0,4588252.0,114239.67,2.126496103527008
-2016,"Transport, storage and communications",State,171194.0,4761865.0,132583.2,3.5951040191185597
 2002,"Transport, storage and communications",Carlow,686.0,46014.0,809.06,1.490850610683705
 2006,"Transport, storage and communications",Carlow,806.0,50349.0,1187.51,1.6008262328943972
 2011,"Transport, storage and communications",Carlow,791.0,54612.0,1236.43,1.4483996191313264
@@ -863,10 +831,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,"Transport, storage and communications",Monaghan,1025.0,55997.0,1296.83,1.8304552029573014
 2011,"Transport, storage and communications",Monaghan,1019.0,60483.0,1274.55,1.684770927368021
 2016,"Transport, storage and communications",Monaghan,1311.0,61386.0,1386.76,2.1356661127944485
-2002,Banking and financial services,State,70838.0,3917203.0,80847.45,1.8083821543075504
-2006,Banking and financial services,State,85413.0,4239848.0,112227.39,2.0145297661614285
-2011,Banking and financial services,State,93151.0,4588252.0,114239.67,2.0302067105294133
-2016,Banking and financial services,State,90878.0,4761865.0,132583.2,1.908453935590362
 2002,Banking and financial services,Carlow,471.0,46014.0,809.06,1.0236015125831268
 2006,Banking and financial services,Carlow,529.0,50349.0,1187.51,1.0506663488847843
 2011,Banking and financial services,Carlow,588.0,54612.0,1236.43,1.076686442540101
@@ -971,10 +935,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,Banking and financial services,Monaghan,491.0,55997.0,1296.83,0.8768326874654
 2011,Banking and financial services,Monaghan,517.0,60483.0,1274.55,0.8547856422465817
 2016,Banking and financial services,Monaghan,463.0,61386.0,1386.76,0.7542436386146678
-2002,"Real estate, renting and business activities",State,151107.0,3917203.0,80847.45,3.857522829427017
-2006,"Real estate, renting and business activities",State,180973.0,4239848.0,112227.39,4.2683841496204575
-2011,"Real estate, renting and business activities",State,184251.0,4588252.0,114239.67,4.015712301765465
-2016,"Real estate, renting and business activities",State,193642.0,4761865.0,132583.2,4.066515955408228
 2002,"Real estate, renting and business activities",Carlow,1114.0,46014.0,809.06,2.4210023036467163
 2006,"Real estate, renting and business activities",Carlow,1312.0,50349.0,1187.51,2.605811436175495
 2011,"Real estate, renting and business activities",Carlow,1408.0,54612.0,1236.43,2.578187944041603
@@ -1079,10 +1039,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,"Real estate, renting and business activities",Monaghan,1137.0,55997.0,1296.83,2.030465917817026
 2011,"Real estate, renting and business activities",Monaghan,1168.0,60483.0,1274.55,1.9311211414777707
 2016,"Real estate, renting and business activities",Monaghan,1541.0,61386.0,1386.76,2.510344378196983
-2002,Public administration and defence,State,94746.0,3917203.0,80847.45,2.4187155988596967
-2006,Public administration and defence,State,101264.0,4239848.0,112227.39,2.3883875082314274
-2011,Public administration and defence,State,113521.0,4588252.0,114239.67,2.474166632521492
-2016,Public administration and defence,State,105929.0,4761865.0,132583.2,2.2245275748052498
 2002,Public administration and defence,Carlow,744.0,46014.0,809.06,1.6168992045899073
 2006,Public administration and defence,Carlow,958.0,50349.0,1187.51,1.902719021231802
 2011,Public administration and defence,Carlow,1067.0,54612.0,1236.43,1.9537830513440269
@@ -1187,10 +1143,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,Public administration and defence,Monaghan,1147.0,55997.0,1296.83,2.048324017358073
 2011,Public administration and defence,Monaghan,1306.0,60483.0,1274.55,2.1592844270290823
 2016,Public administration and defence,Monaghan,1124.0,61386.0,1386.76,1.8310363926628221
-2002,Education,State,109301.0,3917203.0,80847.45,2.7902817392920407
-2006,Education,State,127476.0,4239848.0,112227.39,3.006617218353111
-2011,Education,State,163728.0,4588252.0,114239.67,3.568417776530147
-2016,Education,State,176855.0,4761865.0,132583.2,3.713986011783198
 2002,Education,Carlow,1368.0,46014.0,809.06,2.97300821489112
 2006,Education,Carlow,1553.0,50349.0,1187.51,3.084470396631512
 2011,Education,Carlow,1819.0,54612.0,1236.43,3.330769794184428
@@ -1295,10 +1247,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,Education,Monaghan,1480.0,55997.0,1296.83,2.6429987320749326
 2011,Education,Monaghan,1985.0,60483.0,1274.55,3.281913926227204
 2016,Education,Monaghan,2237.0,61386.0,1386.76,3.644153390023784
-2002,Health and social work,State,143520.0,3917203.0,80847.45,3.6638387134902124
-2006,Health and social work,State,191219.0,4239848.0,112227.39,4.510043756285603
-2011,Health and social work,State,203379.0,4588252.0,114239.67,4.432603091547718
-2016,Health and social work,State,223725.0,4761865.0,132583.2,4.698264230506325
 2002,Health and social work,Carlow,1317.0,46014.0,809.06,2.8621723823184246
 2006,Health and social work,Carlow,1803.0,50349.0,1187.51,3.5810045879759276
 2011,Health and social work,Carlow,2005.0,54612.0,1236.43,3.671354281110379
@@ -1403,10 +1351,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,Health and social work,Monaghan,2553.0,55997.0,1296.83,4.559172812829259
 2011,Health and social work,Monaghan,2417.0,60483.0,1274.55,3.9961642114313114
 2016,Health and social work,Monaghan,2719.0,61386.0,1386.76,4.429348711432574
-2002,"Other community, social and personal service activities",State,64333.0,3917203.0,80847.45,1.6423197878690485
-2006,"Other community, social and personal service activities",State,80358.0,4239848.0,112227.39,1.895303793909593
-2011,"Other community, social and personal service activities",State,84665.0,4588252.0,114239.67,1.8452561018880393
-2016,"Other community, social and personal service activities",State,80325.0,4761865.0,132583.2,1.6868390851063606
 2002,"Other community, social and personal service activities",Carlow,743.0,46014.0,809.06,1.614725952970835
 2006,"Other community, social and personal service activities",Carlow,841.0,50349.0,1187.51,1.6703410196826154
 2011,"Other community, social and personal service activities",Carlow,823.0,54612.0,1236.43,1.5069947996777264
@@ -1511,10 +1455,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,"Other community, social and personal service activities",Monaghan,771.0,55997.0,1296.83,1.3768594746147116
 2011,"Other community, social and personal service activities",Monaghan,796.0,60483.0,1274.55,1.316072284774234
 2016,"Other community, social and personal service activities",Monaghan,836.0,61386.0,1386.76,1.3618740429413874
-2002,Industry not stated,State,101528.0,3917203.0,80847.45,2.591849337397117
-2006,Industry not stated,State,132910.0,4239848.0,112227.39,3.1347821903049358
-2011,Industry not stated,State,101311.0,4588252.0,114239.67,2.2080522168355183
-2016,Industry not stated,State,159989.0,4761865.0,132583.2,3.3597970543054037
 2002,Industry not stated,Carlow,1013.0,46014.0,809.06,2.201503890120398
 2006,Industry not stated,Carlow,2018.0,50349.0,1187.51,4.008023992532126
 2011,Industry not stated,Carlow,1429.0,54612.0,1236.43,2.6166410312751776
@@ -1619,10 +1559,6 @@ Year,Industry,County,WorkingPopulation,Population,EarningsEuro,pctIndustryEmploy
 2006,Industry not stated,Monaghan,1647.0,55997.0,1296.83,2.9412289944104146
 2011,Industry not stated,Monaghan,1121.0,60483.0,1274.55,1.8534133558189905
 2016,Industry not stated,Monaghan,1913.0,61386.0,1386.76,3.11634574658717
-2002,All industries,State,1641587.0,3917203.0,80847.45,41.907120973817285
-2006,All industries,State,1930042.0,4239848.0,112227.39,45.52149039305183
-2011,All industries,State,1807360.0,4588252.0,114239.67,39.39103606340716
-2016,All industries,State,2006641.0,4761865.0,132583.2,42.13981286743744
 2002,All industries,Carlow,18340.0,46014.0,809.06,39.857434693788846
 2006,All industries,Carlow,22075.0,50349.0,1187.51,43.843969095711934
 2011,All industries,Carlow,19502.0,54612.0,1236.43,35.71010034424668
